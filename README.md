@@ -84,7 +84,7 @@ Task 1: Time to Practice - The Basics & CRUD Operations
 
 </details>
 <details>
-<summary>Seção 4: Exploring The Shell & The Server</summary>
+<summary>4. Exploring The Shell & The Server</summary>
 
 58. Module Introduction
 59. Finding Available Options
